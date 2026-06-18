@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The-Previous-Desktop-Background", "The-Previous-Desktop-Background.vcproj", "{25994034-2AA6-47E2-A553-B09A14B0CAC0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Settings", "Settings\Settings.vcproj", "{6E591084-1B41-4519-A5DA-F867F15C5D56}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{25994034-2AA6-47E2-A553-B09A14B0CAC0}.Debug.ActiveCfg = Debug|Win32
+		{25994034-2AA6-47E2-A553-B09A14B0CAC0}.Debug.Build.0 = Debug|Win32
+		{25994034-2AA6-47E2-A553-B09A14B0CAC0}.Release.ActiveCfg = Release|Win32
+		{25994034-2AA6-47E2-A553-B09A14B0CAC0}.Release.Build.0 = Release|Win32
+		{6E591084-1B41-4519-A5DA-F867F15C5D56}.Debug.ActiveCfg = Debug|Win32
+		{6E591084-1B41-4519-A5DA-F867F15C5D56}.Debug.Build.0 = Debug|Win32
+		{6E591084-1B41-4519-A5DA-F867F15C5D56}.Release.ActiveCfg = Release|Win32
+		{6E591084-1B41-4519-A5DA-F867F15C5D56}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

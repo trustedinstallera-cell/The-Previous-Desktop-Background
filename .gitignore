@@ -70,3 +70,50 @@ Testing/
 *.vsidx
 *.ipch
 /x64/Release/pic
+
+# IDE 缓存目录
+.vs/
+.vscode/
+
+# 编译输出目录（你的项目中就有 x64/ 和 Debug/Release）
+x64/
+Debug/
+Release/
+Win32/
+AnyCPU/
+
+# Visual Studio 用户特定文件
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# 编译中间文件
+
+*.tlog/
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.res
+*.recipe
+*.ilk
+*.pch
+*.pdb
+
+# 构建日志和升级报告
+BuildLog.htm
+UpgradeLog.XML
+_UpgradeReport_Files/
+
+# 资源编译临时文件
+*.aps
+*.manifest
+*.embed.manifest
+*.embed.manifest.res
